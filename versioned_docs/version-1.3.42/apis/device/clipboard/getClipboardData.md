@@ -30,7 +30,7 @@ data|string|剪贴板的内容
 ```jsx
 import Taro from '@tarojs/taro'
 
-Taro.getClipboardData(params).then(...)
+Taro.getClipBoardData(params).then(...)
 ```
 
 ## API支持度
